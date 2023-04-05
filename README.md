@@ -1,5 +1,3 @@
 # CourseraIBMData
 
-## Editing the file
-
-It's a markdown file in this repository.
+This respository is for my course's projects, so I upload all of my tests and exercises here, using Jupyter or VS Code
